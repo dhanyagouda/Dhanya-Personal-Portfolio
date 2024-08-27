@@ -1,0 +1,24 @@
+[
+    {
+      "title": "HOSPITAL MANAGEMENT SYSTEM",
+      "imageSrc": "project/project1.png",
+      "description": "This is a project made to learn the latest languages by building an website.",
+      "skills": ["React", "Express", "Node"],
+      "source": "https://github.com/dhanyagouda/Hospital-management-System"
+    },
+    {
+      "title": "RESUME SCREENING SYSTEM",
+      "imageSrc": "project/project2.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Python", "HTML", "CSS", "JS"],
+     
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "E-COMMERCE WEBSITE",
+      "imageSrc": "project/project3.png",
+      "description": "This is a project made to learn the latest languages by building an website.",
+      "skills": ["HTML", "CSS", "JS"],
+      "source": "https://www.github.com"
+    }
+  ]
